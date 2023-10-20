@@ -1,4 +1,4 @@
-Welcome to the Space Explorer App! This application is designed to provide users with a captivating journey through the wonders of outer space. With a focus on education and discovery, this app aims to make space exploration accessible to all.
+Welcome to the Space Explorer App! This application is designed to provide users with a captivating journey through the wonders of outer space. With a focus on education and discovery, this app aims to make space exploration accessible to all. The incorporation of Artificial Intelligence tools will be added in the future as well.
 
 key features:
 
